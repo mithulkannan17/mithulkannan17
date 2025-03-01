@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 ## 📫 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/mithulkannan17">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https://www.linkedin.com/in/mithulkannan17&link=https://www.linkedin.com/in/mithulkannan17&style=flat-square" alt="LinkedIn" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https://www.linkedin.com/in/mithulkannan17&link=https://www.linkedin.com/in/mithulkannan17(https://www.linkedin.com/in/mithul-kannan/)&style=flat-square" alt="LinkedIn" style="border-radius: 10px;" />
   </a>
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/twitter/follow/yourusername?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2&link=https://twitter.com/yourusername&link=https://twitter.com/yourusername&style=flat-square" alt="Twitter" style="border-radius: 10px;" />
