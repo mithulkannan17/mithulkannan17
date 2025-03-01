@@ -3,7 +3,6 @@
 - 👀 I’m interested in software development, particularly in Python and web development. I also enjoy exploring machine learning concepts.
 - 🌱 I’m currently learning advanced Python techniques and diving deeper into React.js.
 - 💞️ I’m looking to collaborate on open-source projects related to web development or small Python utilities.
-- 📫 How to reach me: You can reach me via email at mithulkannan17@example.com (replace with your actual email) or through direct messages on GitHub.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing games and solving puzzles in my free time.
 
