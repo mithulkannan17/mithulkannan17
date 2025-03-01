@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 ## 🚀 About Me
 
-- 👋 Hi, I’m Mithul kannan
+- 👋 Hi, I’m Mithul Kannan
 - 👀 I’m interested in software development, particularly in Python and web development. I also enjoy exploring machine learning concepts.
 - 🌱 I’m currently learning advanced Python techniques and diving deeper into React.js.
 - 💞️ I’m looking to collaborate on open-source projects related to web development or small Python utilities.
@@ -26,71 +26,48 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
   </a>
 </div>
 
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithulkannan17&theme=radical&no-frame=true&row=1&column=7" alt="Mithul's GitHub Trophies" />
+  <a href="https://github.com/mithulkannan17?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=mithulkannan17&theme=radical&no-frame=true&row=1&column=7" alt="Mithul's GitHub Trophies" />
+  </a>
 </div>
-
-<!--## 📝 Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/mithul-kannan/" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https://www.linkedin.com/in/mithulkannan17&link=https://www.linkedin.com/in/mithulkannan17(https://www.linkedin.com/in/mithul-kannan/)&style=flat-square" alt="LinkedIn" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https://www.linkedin.com/in/mithul-kannan/&style=flat-square" alt="LinkedIn" style="border-radius: 20px;" />
   </a>
   <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/twitter/follow/yourusername?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2&link=https://twitter.com/yourusername&link=https://twitter.com/yourusername&style=flat-square" alt="Twitter" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/twitter/follow/yourusername?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2&link=https://twitter.com/yourusername&link=https://twitter.com/yourusername&style=flat-square" alt="Twitter" style="border-radius: 20px;" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Send%20an%20Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836&link=mailto:your.email@example.com&link=mailto:your.email@example.com&style=flat-square" alt="Email" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/Email-Send%20an%20Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836&link=mailto:your.email@example.com&style=flat-square" alt="Email" style="border-radius: 20px;" />
   </a>
-  <!-- <a href="https://www.facebook.com/yourusername">
-    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2&link=https://www.facebook.com/yourusername&link=https://www.facebook.com/yourusername&style=flat-square" alt="Facebook" style="border-radius: 10px;" />
-  </a> -->
   <a href="https://www.instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584&color=C13584&link=https://www.instagram.com/yourusername&link=https://www.instagram.com/yourusername&style=flat-square" alt="Instagram" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584&color=C13584&link=https://www.instagram.com/yourusername&style=flat-square" alt="Instagram" style="border-radius: 20px;" />
   </a>
   <a href="https://www.youtube.com/c/yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000&link=https://www.youtube.com/c/yourchannel&link=https://www.youtube.com/c/yourchannel&style=flat-square" alt="YouTube" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000&link=https://www.youtube.com/c/yourchannel&style=flat-square" alt="YouTube" style="border-radius: 20px;" />
   </a>
 </div>
 
-
-<!--
-## 💼 Featured Projects
-
-- [Project 1](https://github.com/mithulkannan17/project1): A brief description of Project 1.
-- [Project 2](https://github.com/mithulkannan17/project2): A brief description of Project 2.
-- [Project 3](https://github.com/mithulkannan17/project3): A brief description of Project 3.
-
-## 🌟 Highlights
-
-- 🌟 [Highlight 1](https://link-to-highlight1)
-- 🌟 [Highlight 2](https://link-to-highlight2)
-- 🌟 [Highlight 3](https://link-to-highlight3)
-
-## 🎨 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=mithulkannan17&color=blueviolet)
-
-## 🗂️ Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/mithulkannan17/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithulkannan17&repo=repo1&theme=radical" alt="Pinned Repo 1" />
-  </a>
-  <a href="https://github.com/mithulkannan17/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithulkannan17&repo=repo2&theme=radical" alt="Pinned Repo 2" />
-  </a>
-</div>
--->
 ## 💻 Languages Used
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&hide=html&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/mithulkannan17?tab=repositories">
+    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&hide=html&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+
+## 🌟 Followers and Stars
+
+<div align="center">
+  <a href="https://github.com/mithulkannan17?tab=followers">
+    <img src="https://img.shields.io/github/followers/mithulkannan17?style=for-the-badge&color=1DA1F2&labelColor=blue&logo=github&logoColor=white&link=https://github.com/mithulkannan17?tab=followers&style=flat-square" alt="GitHub Followers" style="border-radius: 20px; width: 250px; height: 50px;" />
+  </a>
+  <a href="https://github.com/mithulkannan17?tab=stars">
+    <img src="https://img.shields.io/github/stars/mithulkannan17?style=for-the-badge&color=FFCE00&labelColor=yellow&logo=github&logoColor=white&link=https://github.com/mithulkannan17?tab=stars&style=flat-square" alt="GitHub Stars" style="border-radius: 20px; width: 250px; height: 50px;" />
+  </a>
 </div>
