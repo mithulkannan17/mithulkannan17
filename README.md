@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
   <img src="https://github-profile-trophy.vercel.app/?username=mithulkannan17&theme=radical&no-frame=true&row=1&column=7" alt="Mithul's GitHub Trophies" />
 </div>
 
-## 📝 Latest Blog Posts
+<!--## 📝 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
