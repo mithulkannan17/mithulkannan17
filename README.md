@@ -89,3 +89,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
   </a>
 </div>
 -->
+## 💻 Languages Used
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&hide=html&layout=compact&theme=radical" alt="Top Languages" />
+</div>
