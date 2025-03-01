@@ -39,27 +39,27 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with Me
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mithulkannan17">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue&link=https://www.linkedin.com/in/mithulkannan17&link=https://www.linkedin.com/in/mithulkannan17&style=flat-square" alt="LinkedIn" style="border-radius: 10px;" />
   </a>
   <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/twitter/follow/yourusername?style=for-the-badge&logo=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/yourusername?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2&link=https://twitter.com/yourusername&link=https://twitter.com/yourusername&style=flat-square" alt="Twitter" style="border-radius: 10px;" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Send%20an%20Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Send%20an%20Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836&link=mailto:your.email@example.com&link=mailto:your.email@example.com&style=flat-square" alt="Email" style="border-radius: 10px;" />
   </a>
-  <a href="https://www.facebook.com/yourusername">
-    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
-  </a>
+  <!-- <a href="https://www.facebook.com/yourusername">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2&link=https://www.facebook.com/yourusername&link=https://www.facebook.com/yourusername&style=flat-square" alt="Facebook" style="border-radius: 10px;" />
+  </a> -->
   <a href="https://www.instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584&color=C13584&link=https://www.instagram.com/yourusername&link=https://www.instagram.com/yourusername&style=flat-square" alt="Instagram" style="border-radius: 10px;" />
   </a>
   <a href="https://www.youtube.com/c/yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000&link=https://www.youtube.com/c/yourchannel&link=https://www.youtube.com/c/yourchannel&style=flat-square" alt="YouTube" style="border-radius: 10px;" />
   </a>
 </div>
+
 
 <!--
 ## 💼 Featured Projects
