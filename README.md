@@ -21,8 +21,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mithulkannan17&show_icons=true&theme=radical&count_private=true" alt="Mithul's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&layout=compact&theme=radical&langs_count=10" alt="Mithul's Top Languages" />
+  <a href="https://github.com/mithulkannan17?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&layout=compact&theme=radical&langs_count=10" alt="Mithul's Top Languages" />
+  </a>
 </div>
+
 
 ## 🏆 GitHub Trophies
 
