@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 <div align="center">
   <a href="https://github.com/mithulkannan17?tab=repositories">
-    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&hide=html&layout=compact&theme=radical" alt="Top Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&layout=compact&theme=radical&langs_count=10" alt="Mithul's Top Languages" />
   </a>
 </div>
 
