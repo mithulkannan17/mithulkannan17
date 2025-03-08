@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mithulkannan17&show_icons=true&theme=radical&count_private=true" alt="Mithul's GitHub Stats" />
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=mithulkannan17&show_icons=true&theme=radical&count_private=true" alt="Mithul's GitHub Stats" />
   <a href="https://github.com/mithulkannan17?tab=repositories&q=&type=source&language=&sort=stargazers">
    
 </div>
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 
 <div align="center">
   <a href="https://github.com/mithulkannan17?tab=repositories">
-    <img height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&layout=compact&theme=radical&langs_count=10" alt="Mithul's Top Languages" />
+    <img height="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulkannan17&layout=compact&theme=radical&langs_count=10" alt="Mithul's Top Languages" />
   </a>
 </div>
 
